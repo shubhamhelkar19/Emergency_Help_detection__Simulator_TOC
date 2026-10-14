@@ -29,13 +29,11 @@ You can replace `FIRE` with `HELP`, `SOS`, `DANGER`, or another word up to 24 ch
 
 ## How to run on Windows
 
-1. Download and extract the ZIP file.
-2. Open the `emergency_help_detection_dfa_simulator` folder.
-3. Double-click `index.html` to open it in Chrome or Microsoft Edge.
-4. Type a message that contains the word you want to detect. For example: `THERE IS A FIRE NEAR THE LAB`.
-5. Replace `HELP` in **Keyword to find** with `FIRE`.
-6. Click **Build DFA & Scan**.
-7. Press **Next Step** to see how each character changes the DFA state, or press **Play** for automatic scanning.
+
+1. Type a message that contains the word you want to detect. For example: `THERE IS A FIRE NEAR THE LAB`.
+2. Replace `HELP` in **Keyword to find** with `FIRE`.
+3. Click **Build DFA & Scan**.
+4. Press **Next Step** to see how each character changes the DFA state, or press **Play** for automatic scanning.
 
 ## Theory of Computation connection
 
